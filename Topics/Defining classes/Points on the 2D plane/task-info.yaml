@@ -1,0 +1,19 @@
+type: code
+files:
+  - name: src/Point2D.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2939#comment
+status: Failed
+feedback:
+  message: |-
+    Compilation error
+    Main.java:14: error: class Point2D is public, should be declared in a file named Point2D.java
+    public class Point2D {
+           ^
+    1 error
+
+    Please do not declare public classes.
+  time: "Fri, 29 Mar 2024 14:57:59 UTC"
+record: -1
+submission_language: java17
